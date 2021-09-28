@@ -7134,7 +7134,7 @@ body {
 }
 .navbar-inverse .brand,
 .brand-container .brand {
-  background-color: #222222;
+  background-color: #fff;
   border-left-color: #fff;
   border-right-color: #fff;
 }
@@ -8482,11 +8482,11 @@ body {
   transition: all 0.25s ease;
 }
 .portfolio-item .portfolio-image-container:hover {
-  border-color: #356481;
+  border-color: #fff;
 }
 .portfolio-item .portfolio-image-container:hover .portfolio-shape {
-  background: #222222;
-  border-color: #356481;
+  background: #fff;
+  border-color: #fff;
 }
 .portfolio-item .portfolio-image-container:hover .portfolio-caption {
   opacity: 1;
@@ -8602,7 +8602,7 @@ body {
 }
 .number-container .number {
   margin-bottom: 20px;
-  color: #4d8eb6;
+  color: #fff;
   font-family: "Orbitron";
   font-size: 36px;
   font-weight: 600;
@@ -10195,7 +10195,7 @@ body {
 }
 .special-button-container .special-button-outer:hover,
 .special-button-container .special-button-outer:focus {
-  border-color: #356481;
+  border-color: #fff;
   color: #333;
   text-decoration: none;
   -webkit-transform: rotate(0deg);
@@ -10221,7 +10221,7 @@ body {
   display: block;
   width: 68px;
   height: 68px;
-  background-color: #4d8eb6;
+  background-color: #fff;
   color: #333333;
   font-size: 18px;
   font-family: "Orbitron";
@@ -10409,7 +10409,7 @@ a {
   filter: alpha(opacity=80);
 }
 .lb-outerContainer {
-  background-color: #000;
+  background-color: #fff;
   border-radius: 0;
 }
 .lb-dataContainer {
@@ -10545,7 +10545,7 @@ a {
   background-color: #c66b8a;
 }
 .bg-silver {
-  background-color: #8594AD;
+  background-color: pink;
 }
 .bg-green {
   background-color: #7CDE9D;
